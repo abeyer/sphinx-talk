@@ -10,6 +10,7 @@ Welcome to Split's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   split
 
 
 Indices and tables

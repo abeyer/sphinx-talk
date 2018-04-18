@@ -1,0 +1,5 @@
+Split
+-----
+
+.. automodule:: split
+   :members:
