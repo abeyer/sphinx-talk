@@ -6,6 +6,9 @@ def equal_split_index(arr):
       ``0 <= i <= len(arr) and sum(arr[:i]) == sum(arr[i:])``
 
     Returns ``None`` if there is no such ``i``.
+
+    >>> split.equal_split_index([1,2,3])
+    2
     """
 
     left_sum = 0

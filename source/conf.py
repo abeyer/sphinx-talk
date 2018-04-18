@@ -159,4 +159,4 @@ texinfo_documents = [
 
 
 # -- Extension configuration -------------------------------------------------
-
+doctest_test_doctest_blocks = "Yes"
