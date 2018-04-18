@@ -8,7 +8,7 @@ Split
 .. doctest::
 
     >>> split.equal_split_index([1,2,3])
-    0
+    2
 
 .. automodule:: split
    :members:
