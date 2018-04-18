@@ -11,6 +11,7 @@ Welcome to Split's documentation!
    :caption: Contents:
 
    split
+   todo-list
 
 
 Indices and tables

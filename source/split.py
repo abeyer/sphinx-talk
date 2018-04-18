@@ -7,6 +7,9 @@ def equal_split_index(arr):
 
     Returns ``None`` if there is no such ``i``.
 
+    .. todo::
+        Write more doctest usage examples.
+
     >>> split.equal_split_index([1,2,3])
     2
     """

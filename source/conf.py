@@ -42,6 +42,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.doctest',
     'sphinx.ext.viewcode',
+    'sphinx.ext.todo',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -159,4 +160,5 @@ texinfo_documents = [
 
 
 # -- Extension configuration -------------------------------------------------
-doctest_test_doctest_blocks = "Yes"
+doctest_test_doctest_blocks = "include"
+todo_include_todos = True
